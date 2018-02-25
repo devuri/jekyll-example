@@ -4,7 +4,7 @@ You're looking at a simple Jekyll site built to show folks how to use Sass with 
 
 ### Demo
 
-http://mdo.github.io/jekyll-example/
+Basic example [Jekyll Example Demo](http://mdo.github.io/jekyll-example/)
 
 ### Usage
 
